@@ -5,7 +5,7 @@ Download and extract TagEditor_SFX.exe
 
 Launch shortcut TagEditor.exe
 
-Insert your text and start tagging. You can tag dependencies, part of speech and Named entities.
+Insert your text and press Start tagging. You can tag dependencies, parts of speech and Named entities.
 
 Press button "Create DATA" to create data in "simple training style" or JSON
 
