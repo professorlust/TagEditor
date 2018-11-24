@@ -9,6 +9,8 @@ Insert your text and start tagging. You can tag dependencies, part of speech and
 
 Press button "Create DATA" to create data in "simple training style" or JSON
 
+Right click on word to edit, delete, insert word, merge or split sentences.
+
 Save project for future editing.
 
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/dep.png)
