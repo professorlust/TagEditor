@@ -1,4 +1,4 @@
-# TagEditor
+# TagEditor (desktop application)
 Annotation tool for spaCy
 
 Download and extract TagEditor_SFX.exe 
