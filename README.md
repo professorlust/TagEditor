@@ -1,5 +1,5 @@
 # TagEditor (desktop application)
-Annotation tool for spaCy
+TagEditor is a desktop application designed to annotate text for training with spaCy library.
 
 Download and extract TagEditor_SFX.exe 
 
