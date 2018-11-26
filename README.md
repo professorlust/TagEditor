@@ -16,3 +16,5 @@ Right click on word to edit, delete, insert word, merge or split sentences.
 Save project for future editing.
 
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/dep.png)
+![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/ner.png)
+![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/datpic.png)
