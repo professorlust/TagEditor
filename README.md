@@ -14,7 +14,7 @@ To delete all whitespace symbols in the text, select tab 'Words' and press Remov
 'Save project' for future editing. 'Load project' to continue where you left.
 
 **How to use Text Categories**<br/>
-Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0). Select a category tag. Go to editor window and click on sentence. Category and score will be added. You can easily switch the score True/False by just clicking on the score label in editor window. You can also select a new category in TAG SET pannel and click on the category label in editor window to reassign the category. Delete label by clicking on ❎. Supports multi-label classification. 
+Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0) and select a category tag. Go to the editor window and click on sentence. Category and score will be added. You can easily switch the score True/False by just clicking on the score label in editor window. You can also select a new category in TAG SET pannel and click on the category label in editor window to reassign the category. Delete label by clicking on ❎. Supports multi-label classification. 
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/cats.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic1.png)
 
