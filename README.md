@@ -1,5 +1,5 @@
 ## TagEditor
-TagEditor is a desktop application for Windows designed to annotate text for training with spaCy library.
+TagEditor is a desktop application (tested on Windows 10, 64-bit) designed to annotate text for training with spaCy library.
 
 Download and unpack(extract) TagEditorSFX.exe <br/>
 Launch shortcut TagEditor.exe<br/>
