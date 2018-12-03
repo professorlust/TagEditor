@@ -8,10 +8,10 @@ Insert your text and press Start tagging.
 
 Select a tag in TAG SET pannel then select a word to assign the tag. Then select a head token if you work in the Dependencies tab. You can tag dependencies, parts of speech, Named entities and text categories.<br/>
 Press button "Create DATA" to create data in "simple training style" or JSON.<br/>
-Right click on word to edit, delete, insert word, merge or split sentences. 
+Right-click on a word to edit, delete, insert word, merge or split sentences. 
 To merge sentences right-click on the first word of sentence. It is checked as Sentence start. Uncheck it and the sentence will merge with the previous sentence. <br/>
 To delete all whitespace symbols in the text, select tab 'Words' and press Remove Whitespaces.<br/> 
-Save project for future editing. Load the project to continue where you left.
+'Save project' for future editing. 'Load project' to continue where you left.
 
 **How to use Text Categories**<br/>
 Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0). Select a category tag. Go to editor window and click on sentence. Category and score will be added. You can easily switch the score True/False by just clicking on the score label in editor window. You can also select a new category in TAG SET pannel and click on the category label in editor window to reassign the category. Delete label by clicking on ❎. Supports multi-label classification. 
