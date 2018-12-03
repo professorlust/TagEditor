@@ -9,7 +9,7 @@ Insert your text and press Start tagging.
 Select a tag in TAG SET pannel then select a word to assign the tag. Then select a head token if you work in the Dependencies tab. You can tag dependencies, parts of speech, Named entities and text categories.<br/>
 Press button "Create DATA" to create data in "simple training style" or JSON.<br/>
 Right click on word to edit, delete, insert word, merge or split sentences. 
-To merge sentences right-click on the first word of sentence. It will be checked as Sentence start. Uncheck it and the sentence will merge with the previous sentence. <br/>
+To merge sentences right-click on the first word of sentence. It is checked as Sentence start. Uncheck it and the sentence will merge with the previous sentence. <br/>
 To delete all whitespace symbols in the text, select tab 'Words' and press Remove Whitespaces. 
 Save project for future editing. Load the project to continue where you left.
 
