@@ -10,7 +10,7 @@ Select a tag in TAG SET pannel then select a word to assign the tag. Then select
 Press button "Create DATA" to create data in "simple training style" or JSON.<br/>
 Right click on word to edit, delete, insert word, merge or split sentences. 
 To merge sentences right-click on the first word of sentence. It is checked as Sentence start. Uncheck it and the sentence will merge with the previous sentence. <br/>
-To delete all whitespace symbols in the text, select tab 'Words' and press Remove Whitespaces. 
+To delete all whitespace symbols in the text, select tab 'Words' and press Remove Whitespaces.<br/> 
 Save project for future editing. Load the project to continue where you left.
 
 **How to use Text Categories**<br/>
