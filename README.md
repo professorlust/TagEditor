@@ -6,7 +6,7 @@ Download and unpack(extract) TagEditorSFX.exe <br/>
 Launch shortcut TagEditor.exe<br/>
 Insert your text and press Start tagging. 
 
-Select a tag in TAG SET pannel then select a word to assign the tag. You can tag dependencies, parts of speech, Named entities and Text Classification.<br/>
+Select a tag in TAG SET pannel then select a word to assign the tag. Then select a head token if you work in the Dependencies tab. You can tag dependencies, parts of speech, Named entities and text categories.<br/>
 Press button "Create DATA" to create data in "simple training style" or JSON.<br/>
 Right click on word to edit, delete, insert word, merge or split sentences. 
 To merge sentences right-click on the first word of sentence. It will be checked as Sentence start. Uncheck it and the sentence will merge with the previous sentence. <br/>
