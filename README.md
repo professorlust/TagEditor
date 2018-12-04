@@ -1,4 +1,4 @@
--*update 12/3/2018 - Text Categories option was included,  small fixes. Read how to use text categories.*<br/>
+-*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.*<br/>
 ## TagEditor
 TagEditor is a desktop application (tested on Windows 10, 64-bit) designed to annotate text for training with spaCy library.
 
