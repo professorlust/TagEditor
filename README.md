@@ -9,7 +9,7 @@ Insert your text and press Start tagging.
 &nbsp; Select a tag in TAG SET pannel then select a word to assign the tag. You can tag dependencies, parts of speech, Named entities and text categories.<br/>
 &nbsp; Right-click on a word to edit, delete, insert word, merge or split sentences. 
 To merge sentences right-click on the first word of sentence. It is checked as **Sentence start**. Uncheck it and the sentence will merge with the previous sentence. <br/>
-&nbsp; To delete all whitespace symbols in the text, select tab **Words** and press **Remove Whitespaces**.<br/> 
+&nbsp; To delete all newline characters in the text, select tab **Words** and press **Remove Whitespaces**.<br/> 
 Press button **Create DATA** to create data in "simple training style" or JSON.<br/>
 **Save project** for future editing. **Load project** to continue where you left.
 
