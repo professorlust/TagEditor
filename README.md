@@ -25,5 +25,5 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 
 ## Donation
 
-If this project help you reduce time to develop, you can give me a cup of coffee :)<br/>
+If this project helps you, you can give me a cup of coffee :)<br/>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>
