@@ -13,7 +13,7 @@ Launch shortcut TagEditor.exe <br/>
 
 ### Usage
 
-![alt text](https://github.com/d5555/TagEditor/blob/master/pics/dep.gif)
+![alt text](https://github.com/d5555/TagEditor/blob/master/pics/dep800.gif)
 
 &nbsp; Insert your text or open a text file and press Start tagging. Select a tag in TAG SET pannel then select a word to assign the tag. Select a head tag to assign dependency in if you are working in the Dependencies window .<br/>
 &nbsp; Right-click on a word to edit, delete, insert word, merge or split sentences. 
