@@ -4,7 +4,7 @@
 ### TagEditor
 
 TagEditor is a desktop application (tested on Windows 10, 64-bit) designed to annotate text for training with spaCy library.<br/>
-With TagEditor you can tag **dependencies, parts of speech, Named entities and text categories**.
+With TagEditor you can label **dependencies, parts of speech, Named entities and text categories**.
 
 Download and unpack(extract) TagEditorSFX.exe <br/>
 Launch shortcut TagEditor.exe<br/>
