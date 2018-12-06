@@ -1,7 +1,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
 >*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.*<br/>
 #### TagEditor
-*********************************************
+******************************
 TagEditor is a desktop application (tested on Windows 10, 64-bit) designed to annotate text for training with spaCy library.<br/>
 With TagEditor you can tag **dependencies, parts of speech, Named entities and text categories**.
 
@@ -24,7 +24,7 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/dep.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/ner.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic.png)
-
+******************************
 ### Donation
 
 If this project helps you, you can give me a cup of coffee :)<br/>
