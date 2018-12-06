@@ -6,11 +6,14 @@
 TagEditor is a desktop application (tested on Windows 10, 64-bit) designed to annotate text for training with spaCy library.<br/>
 With TagEditor you can label **dependencies, parts of speech, Named entities and text categories**.
 
-Download and unpack(extract) TagEditorSFX.exe <br/>
-Launch shortcut TagEditor.exe<br/>
-Insert your text and press Start tagging. 
+### Installation
 
-&nbsp; Select a tag in TAG SET pannel then select a word to assign the tag. Select a head tag to assign dependency in if you are working in the Dependencies window .<br/>
+Just download and unpack(extract) [**TagEditorSFX.exe**](TagEditor/TagEditorSFX.exe) <br/>
+Launch shortcut TagEditor.exe <br/>
+
+### Usage
+
+&nbsp; Insert your text or open a text file and press Start tagging. Select a tag in TAG SET pannel then select a word to assign the tag. Select a head tag to assign dependency in if you are working in the Dependencies window .<br/>
 &nbsp; Right-click on a word to edit, delete, insert word, merge or split sentences. 
 To merge sentences right-click on the first word of sentence. It is checked as **Sentence start**. Uncheck it and the sentence will merge with the previous sentence. <br/>
 &nbsp; To delete all newline characters and extra whitespaces in the text, select the tab **Words** and press **Remove Whitespaces**.<br/> 
