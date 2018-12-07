@@ -33,7 +33,7 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 ******************************
 Need help, found a bug or any suggestions? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
 ******************************
-### Donation
+### Donations
 
 If this project helps you, you can give me a cup of coffee :)<br/>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>
