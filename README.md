@@ -31,7 +31,7 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/ner.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic.png)
 ******************************
-Need help or found a bug? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
+Need help, found a bug or any suggestion? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
 ******************************
 ### Donation
 
