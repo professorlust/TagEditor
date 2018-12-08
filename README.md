@@ -1,5 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
 >*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.*
+>*update 12/7/2018 - new button was added for Text Categories (Assign/unassign all).*
 
 ### TagEditor
 
@@ -23,7 +24,8 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 **Save project** for future editing. **Load project** to continue where you left.
 
 **How to use Text Categories**<br/>
-&nbsp; Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0) and select a category label. Go to the editor window and click on sentence. Category and score will be added. You can easily **switch the score True/False** by just clicking on the score label in editor window. Supports multiple, non-mutually exclusive labels. 
+&nbsp; Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0) and select a category label. Go to the editor window and click on sentence. Category and score will be added. You can easily **switch the score True/False** by just clicking on the score label in editor window. Supports multiple, non-mutually exclusive labels.<br/>
+Use check button **Assign/unassign all** to assign all labels to all sentences in one click. Then you can manually change True/False status of each label or delete a label in the editor window.
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/cats.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic1.png)
 
