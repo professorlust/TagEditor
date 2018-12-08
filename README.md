@@ -25,7 +25,7 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 
 **How to use Text Categories**<br/>
 &nbsp; Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0) and select a category label. Go to the editor window and click on sentence. Category and score will be added. You can easily **switch the score True/False** by just clicking on the score label in editor window. Supports multiple, non-mutually exclusive labels.<br/>
-Use check button **Assign/unassign all** to assign all labels to all sentences in one click. Then you can manually change True/False status of each label or delete a label in the editor window.
+Use check button **Assign/unassign all** to assign/unassign all labels to all sentences in one click. Then you can manually change True/False status of each label or delete a label in the editor window.
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/cats.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic1.png)
 
