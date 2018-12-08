@@ -1,10 +1,11 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
->*<font size="+5">update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.</font>* <br/>
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
+>*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.* <br/>
 >*update 12/7/2018 - new button was added for Text Categories (Assign/unassign all).*
 
 ### TagEditor
 
-TagEditor is a desktop application (tested on _Windows 10, 64-bit_) designed to annotate text for training with spaCy library.<br/>
+<font size="+5">TagEditor is a desktop application (tested on _Windows 10, 64-bit_) designed to annotate text for training with spaCy library.</font><br/>
 With TagEditor you can label **dependencies, parts of speech, Named entities and text categories**.
 
 ### Installation
