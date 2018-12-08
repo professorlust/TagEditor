@@ -31,12 +31,7 @@ Use check button **Assign/unassign all** to assign/unassign all labels to all se
 
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/dep.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/ner.png)
-<details>
-<summary>
-###![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic.png)
-# CLICK ME
-</summary>
- </details>
+![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic.png)
 **************
 Need help, found a bug or any suggestions? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
 **************
