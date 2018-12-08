@@ -1,5 +1,5 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
->*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.*
+>*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.* <br/>
 >*update 12/7/2018 - new button was added for Text Categories (Assign/unassign all).*
 
 ### TagEditor
