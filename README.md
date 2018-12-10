@@ -35,6 +35,6 @@ Need help, found a bug or you would like get the extended version? [**New issue*
 ### Extended version
 
 If this project helps you, and you would like to get the extended version you are welcome to contact me at gitprojects5@gmail.com <br/>
-In the extended version you can load any model, including your customized pre-trained models. You will also be able to autolabel text categories from your pre-trained model. 
+In the extended version you can load any model, including your customized pre-trained models. You will also be able to autolabel sentences with text categories from your pre-trained model. 
 <!---[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>--->
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
