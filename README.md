@@ -1,4 +1,3 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
 >*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.* <br/>
 >*update 12/7/2018 - new button was added for Text Categories (Assign/unassign all).*
 
@@ -27,15 +26,15 @@ Press button **Create DATA** to create data in "simple training style" or JSON.<
 &nbsp; Select the score in the TAG SET pannel - True or False(i.e 1.0 or 0.0) and select a category label. Go to the editor window and click on sentence. Category and score will be added. You can easily **switch the score True/False** by just clicking on the score label in editor window. Supports multiple, non-mutually exclusive labels.<br/>
 Use check button **Assign/unassign all** to assign/unassign all labels to all sentences in one click. Then you can manually change True/False status of each label or delete a label in the editor window.
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/cats.png)
-![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic1.png)
-
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/dep.png)
 ![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/ner.png)
-![alt text](https://raw.githubusercontent.com/GitDimma/Tag-Editor/master/pics/datpic.png)
-**************
+<!---**************
+### Extended version
 Need help, found a bug or you would like get the extended version? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
-**************
-### Donations
+**************--->
+### Extended version
 
-If this project helps you, you can give me a cup of coffee :)<br/>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>
+If this project helps you, and you would like to get the extended version please contact me at gitprojects5@gmail.com <br/>
+In the extended version you can load any model, including your customized pre-trained models. You will also be able to autolabel text categories from your pre-trained model. 
+<!---[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>--->
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
