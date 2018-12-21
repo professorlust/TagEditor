@@ -9,7 +9,7 @@ With TagEditor you can label **dependencies, parts of speech, Named entities and
 
 ### Installation
 
-Just download and unpack(extract) **TagEditorSFX.exe**<br/>
+Download and unpack(extract) **TagEditorSFX.exe**<br/>
 Launch shortcut TagEditor.exe <br/>
 
 ### Usage
