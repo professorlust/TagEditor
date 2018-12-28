@@ -1,7 +1,7 @@
 >* - Text Categories option was included,  small fixes. Read how to use text categories.<br/>
 >* - new button was added for Text Categories (Assign/unassign all).<br/>
 >* - added spacy models, improved stability and speed with big texts.<br/>
->* - TAG MAP option added 
+>* - TAG MAP option added on POS tagging tab
 
 ### TagEditor annotation tool
 
@@ -10,7 +10,7 @@ With TagEditor you can label **dependencies, parts of speech, Named entities and
 
 ### Installation
 
-Download and unpack(extract) **TagEditorSFX.exe**<br/>
+Download and unpack(extract) ![**TagEditorSFX.exe**](https://github.com/d5555/TagEditor/raw/master/TagEditorSFX.exe)<br/>
 Launch shortcut TagEditor.exe <br/>
 
 ### Usage
