@@ -1,7 +1,7 @@
->*update 12/4/2018 - Text Categories option was included,  small fixes. Read how to use text categories.* <br/>
->*update 12/7/2018 - new button was added for Text Categories (Assign/unassign all).*<br/>
->*update 12/21/2018 - added spacy models, improved stability and speed with big texts.*<br/>
->*update 12/27/2018 - TAG MAP option added *
+>* - Text Categories option was included,  small fixes. Read how to use text categories.<br/>
+>* - new button was added for Text Categories (Assign/unassign all).<br/>
+>* - added spacy models, improved stability and speed with big texts.<br/>
+>* - TAG MAP option added 
 
 ### TagEditor annotation tool
 
