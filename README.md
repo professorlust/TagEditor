@@ -1,7 +1,7 @@
->* - Text Categories option was included,  small fixes. Read how to use text categories.<br/>
->* - new button was added for Text Categories (Assign/unassign all).<br/>
->* - added spacy models, improved stability and speed with big texts.<br/>
->* - edit TAG MAP option added on POS tagging window
+>* Text Categories option was included,  small fixes. Read how to use text categories.<br/>
+>* new button was added for Text Categories (Assign/unassign all).<br/>
+>* added spacy models, improved stability and speed with big texts.<br/>
+>* edit TAG MAP option added on POS tagging window
 
 ### TagEditor annotation tool
 
