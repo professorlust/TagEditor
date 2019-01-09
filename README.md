@@ -28,8 +28,8 @@ Use check button **Assign/unassign all** to assign/unassign all labels to all se
 <!---**************
 ### Extended version
 Need help, found a bug or you would like get the extended version? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
-**************--->
+**************
 gitprojects5@gmail.com 
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>--->
