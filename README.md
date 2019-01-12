@@ -1,8 +1,3 @@
->* Text Categories option was included,  small fixes. Read how to use text categories.<br/>
->* new button was added for Text Categories (Assign/unassign all).<br/>
->* added spacy models, improved stability and speed with big texts.<br/>
->* edit TAG MAP option added on POS tagging window
-
 ### TagEditor annotation tool
 
 TagEditor is a desktop application (tested on _Windows 10, 64-bit_) designed to annotate text for training with spaCy library.<br/>
@@ -33,10 +28,8 @@ Use check button **Assign/unassign all** to assign/unassign all labels to all se
 <!---**************
 ### Extended version
 Need help, found a bug or you would like get the extended version? [**New issue**](https://github.com/d5555/TagEditor/issues/new) or contact us at gitprojects5@gmail.com
-**************--->
-### Extended version
+**************
+gitprojects5@gmail.com 
 
-If this project helps you, and you would like to get the extended version you are welcome to contact me at gitprojects5@gmail.com <br/>
-In the extended version you can load any model, including your customized pre-trained models. You will also be able to autolabel sentences with text categories from your pre-trained model. 
-<!---[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/d5555)<br/>--->
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/d5555)<br/>--->
